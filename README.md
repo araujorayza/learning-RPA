@@ -1,6 +1,6 @@
-# Learning-PowerBI
+# Learning-RPA
 
-I'm documenting my journey with MS PowerBI and I hope it can help you out :)
+I'm documenting my journey with MS PowerBI and PowerAutomate and I hope it can help you out :)
 
 
 ## First Resources
