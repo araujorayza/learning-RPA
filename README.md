@@ -6,7 +6,8 @@ I'm documenting my journey with MS PowerBI and PowerAutomate and I hope it can h
 ## First Resources
 
 1. [MS Learn Resources](https://app.powerbi.com/learn)
-
+2. [MS Learn Resources - Intro to Power Automate](https://docs.microsoft.com/en-us/learn/modules/introduction-power-automate/)
+3. [MS Learn Resources - First Desktop Flow](https://docs.microsoft.com/en-us/learn/modules/build-first-desktop-flow/) 
 
 ## My notes
 
@@ -33,3 +34,5 @@ I'm documenting my journey with MS PowerBI and PowerAutomate and I hope it can h
     |  set of resources used to host and deliver your Power BI content | containers for dashboards, reports, datasets, and dataflows in Power BI |
     | <ul><li>shared: other customers</li><li>dedicated: single custoner, requires subscription</li></ul> | defaults to created on a shared capacity |
     |   | <ul><li>My workspace: personal</li><li>workspaces: collaborate (only for pro licenses)</li></ul> |
+
+## Some 
