@@ -35,4 +35,5 @@ I'm documenting my journey with MS PowerBI and PowerAutomate and I hope it can h
     | <ul><li>shared: other customers</li><li>dedicated: single custoner, requires subscription</li></ul> | defaults to created on a shared capacity |
     |   | <ul><li>My workspace: personal</li><li>workspaces: collaborate (only for pro licenses)</li></ul> |
 
-## Some 
+## Some Notes on setting up a git workflow for the new RPA Team
+1. This [video](https://www.youtube.com/watch?v=BF2OHMM86Ik)
